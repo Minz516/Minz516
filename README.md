@@ -48,3 +48,13 @@
 ---
 
 ⚡ *Fun fact*: I drink coffee faster than my code compiles 😆
+
+<div style="background-color:black; padding:20px; border-radius:10px;">
+  <h1 align="center" style="color:#00ffff;">
+    Hi there 👋, I'm Hoàng Minh
+  </h1>
+  <p align="center">
+    <img src="assets/neon-title.png" alt="Neon Title" width="600"/>
+  </p>
+</div>
+
