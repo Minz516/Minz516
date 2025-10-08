@@ -1,11 +1,6 @@
 <p align="center">
   <img src="assets/neon-title.png" alt="Hi there, I’m Hoàng Minh" width="600" />
 </p>
-
-<p align="center">
-  <img src="assets/cyberpunk-bg.png" alt="Neon Cyberpunk City" width="800" />
-</p>
-
 ---
 
 ## ​ About Me  
