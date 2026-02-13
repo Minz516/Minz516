@@ -4,7 +4,7 @@
 ---
 
 ## ​ About Me  
-- 🔭 I’m currently working on **C++ Project**  
+- 🔭 I’m currently working on **C/C++, Java, Dart Project**  
 - 🌱 I’m currently learning **Software Engineering**  
 - 👯 I’m looking to collaborate on **Microsoft**  
 - 💬 Ask me about **Coding**  
