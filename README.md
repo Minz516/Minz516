@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/neon-title.png" alt="Neon Title" width="600" />
+  <img src="assets/cyberpunk-city.jpg" alt="Neon Title" width="600" />
   <h1>Hi visitors, I am Hoàng Minh 👋</h1>
   <p><i>Software Engineering Student @ RMIT Vietnam | Passionate about AR/VR & OOP</i></p>
 </div>
