@@ -2,6 +2,7 @@
   <img src="assets/cyberpunk-city.jpg" alt="Neon Title" width="600" />
   <h1>Hi visitors, I am Hoàng Minh 👋</h1>
   <p><i>Software Engineering Student @ RMIT Vietnam | Passionate about AR/VR & OOP</i></p>
+  <a href="https://minz516-29anjsc1l-minz516s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 ---
@@ -52,6 +53,7 @@
 
 ## 📫 Connect With Me
 <div align="center">
+  <a href="https://minz516-29anjsc1l-minz516s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.facebook.com/TranHoangMnh/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/hoagmin._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/hoàng-minh-897487307/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
