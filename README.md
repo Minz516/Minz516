@@ -65,12 +65,13 @@
 ## 🚀 Currently Working On
 | Project | Description |
 | ------- | ----------- |
-| [**Together**](https://github.com/TriHuynh00/Together-experimental) | A collaborative learning and project management platform tailored for students and lecturers. Features intuitive task assignments, progress tracking, and peer-review workflows (similar to a Kanban/Trello board) to boost team productivity. |
-| [**TicTacToang**](https://github.com/RMIT-Full-Stack-Development-2026A/Group1) | A cross-platform web-based Tic Tac Toe game featuring eye-catching 3D animations and beautiful visual effects. |
+| [**Banh Trang Nha Na**](https://github.com/Minz516/banh-na-nha-trang.git) | A family-owned e-commerce platform built to move sales off third-party marketplaces and into a self-managed online store, cutting recurring platform fees and commissions. |
 
 ---
 
 ## 📂 Highlighted Projects
+- 🤝 [**Together**](https://github.com/TriHuynh00/Together-experimental): A collaborative learning and project management platform tailored for students and lecturers. Features intuitive task assignments, progress tracking, and peer-review workflows (similar to a Kanban/Trello board) to boost team productivity.
+- 🎮 [**TicTacToang**](https://github.com/RMIT-Full-Stack-Development-2026A/Group1): A cross-platform web-based Tic Tac Toe game featuring eye-catching 3D animations and beautiful visual effects.
 - 📅 [**EventX**](https://github.com/RMIT-Vietnam-Teaching/assignment-2-build-a-backend-sgs-tut02-group2): An event management system featuring 4 distinct roles (Attendee, Presenter, Event Admin, System Admin).
 - 🤖 [**TutorBot**](https://github.com/ImNamzz/tutor-bot): An AI-assisted learning tool that helps students study better based on video scripts. It integrates the Socratic method to improve critical thinking and automatically generates events on the calendar.
 - 🌊 [**FlowGuard**](https://github.com/KhanhQNguyn/flowguard): A flood early warning application for residents in Ho Chi Minh City, integrating hardware sensors and a reward point system for community reporting.
